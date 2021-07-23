@@ -1,6 +1,6 @@
 # Portfolio of Golubeva Marina
 
-- CV: https://Mor-11.github.io/rsschool-cv/
+- CV: https://mor-11.github.io/RsShoole-CV/
 - Portfolio: https://github.com/Mor-11/Portfolio
 
 ## SPA: Game Async-race
