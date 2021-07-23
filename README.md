@@ -1,7 +1,7 @@
 # Portfolio of Golubeva Marina
 
 - CV: https://Mor-11.github.io/rsschool-cv/
-- Portfolio:
+- Portfolio: https://github.com/Mor-11/Portfolio
 
 ## SPA: Game Async-race
 
@@ -117,7 +117,7 @@
             <li>17.03.2021</li>
     </td>
     <td width="40%">
-        <img src="">
+        <img src="./img/page.png">
     </td>
 </tr>
 </table>
@@ -133,7 +133,7 @@
             <li>Key skills: React</li>
     </td>
     <td width="40%">
-        <img src="">
+        <img src="./img/Todo-list.png">
     </td>
 </tr>
 </table>
